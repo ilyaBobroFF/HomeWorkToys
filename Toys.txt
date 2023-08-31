@@ -1,0 +1,12 @@
+ID: 5
+Name: Fox
+Chance: 30
+ID: 6
+Name: Loki
+Chance: 40
+ID: 7
+Name: Bob
+Chance: 50
+ID: 8
+Name: Xander
+Chance: 30
